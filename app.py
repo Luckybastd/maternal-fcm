@@ -24,7 +24,7 @@ mapping = model_data['mapping']
 # --- 3. UI JUDUL WEB ---
 st.title("🤰 Sistem Deteksi Dini Risiko Kehamilan")
 st.markdown("""
-Aplikasi ini mengimplementasikan algoritma **Fuzzy C-Means (FCM)** untuk memprediksi tingkat risiko kehamilan berdasarkan parameter fisiologis medis. 
+Implementasi algoritma **Fuzzy C-Means (FCM)** untuk memprediksi tingkat risiko kehamilan berdasarkan parameter fisiologis medis. 
 Silakan masukkan data pasien pada formulir di bawah ini.
 """)
 
